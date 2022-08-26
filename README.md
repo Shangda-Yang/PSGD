@@ -1,6 +1,6 @@
 # Convergence Rates for Stochastic Approximation on a Boundary
 
-This repository contains the implementation for the examples in the paper "Convergence Rates for Stochastic Approximation on a Boundary" (https://arxiv.org/abs/2208.07243).
+This repository contains the tests for exponential decay when constraints applied and the implementation of the examples in the paper "Convergence Rates for Stochastic Approximation on a Boundary" (https://arxiv.org/abs/2208.07243).
 
 Examples include a 2 variables linear programming problem, a 50 variables probability simplex problem, a multi-armed bandit problem, a three-state two-action Markov decision process and a more complicated Markov decision process - the Blackjack problem introduced in Sutton and Barto (2018).
 
